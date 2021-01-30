@@ -1,0 +1,36 @@
+
+Predicciones realizadas con fecha: Sunday, January 24 2021 20:09:46
+p_epil2
+p_sent2
+p_andar
+p_sent2
+p_sent2
+p_sent2
+p_sent2
+
+Predicciones realizadas con fecha: Sunday, January 24 2021 20:10:21
+p_epil2
+p_epil2
+p_epil2
+p_epil2
+p_epil2
+p_epil2
+p_epil2
+
+Predicciones realizadas con fecha: Sunday, January 24 2021 20:10:56
+p_sent1
+p_sent1
+p_sent1
+p_sent1
+p_sent1
+p_sent1
+p_sent1
+
+Predicciones realizadas con fecha: Sunday, January 24 2021 20:11:30
+p_epil1
+p_epil1
+p_epil1
+p_epil2
+p_epil2
+p_epil2
+p_epil2
