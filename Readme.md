@@ -1,5 +1,7 @@
 # Trabajo de la asignatura de Redes de Sensores Electrónicos
 
+*Clon del repositorio anterior del trabajo pero quitando información de contraseñas*
+
 ## Detección de epilepsias de mi abuelo
 
 El objetivo de este proyecto es elaborar un detector inteligente de **epilepsias** (y otros movimientos detallados más adelante) utilizando para ello el *SoC* **ESP32** y el acelerómetro del sensor **MPU9250**. La motivación de dicho proyecto reside en ser capaz de detectar episodios de epilepsias similares a los que ya ha tenido mi abuelo.
